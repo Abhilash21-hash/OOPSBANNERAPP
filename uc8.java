@@ -106,4 +106,4 @@ public class OOPSBanner {
         // Display the banner for "OOPS"
         displayBanner("OOPS", characterPatternMap);
     }
-}
+}               
